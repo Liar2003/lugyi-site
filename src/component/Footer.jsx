@@ -44,7 +44,7 @@ const Footer = () => {
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center">
             <p className="text-sm">
-              © {new Date().getFullYear()} MyCinema App. All rights reserved.
+              © {new Date().getFullYear()} Lugyi Car App. All rights reserved.
             </p>
           </div>
         </div>

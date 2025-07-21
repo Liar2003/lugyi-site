@@ -10,6 +10,7 @@ import BubbleFlame from "./BubleFrame";
 
 import ImageSlider from "./ImageSlider";
 import home from "/home.png";
+import movies from "/movies.png";
 import latest from "/latest-movies.png";
 import vip from "/vip.png";
 import profile from "/profile.png";
@@ -17,6 +18,7 @@ import HeroNavbar from "./HeroNavbar";
 
 export default function Component() {
   const images = [
+    movies,
     home,
     latest,
     vip,
@@ -42,9 +44,8 @@ export default function Component() {
                 BEST MOVIE APP
               </h2>
               <p className="text-base sm:text-lg md:text-2xl text-center md:text-left leading-relaxed">
-                <strong className="text-yellow-600">LiGyiCar App</strong> မှာ
-                <strong className="text-yellow-600">LuGyicar</strong>
-                ၊ မှ ရုပ်ရှင်များကို လွယ်ကူစွာ တိုက်ရိုက်ကြည့်ရှုနိုင်ပြီး၊
+                <strong className="text-blue-600">LiGyiCar App</strong> မှာ
+                 ရုပ်ရှင်များကို လွယ်ကူစွာ တိုက်ရိုက်ကြည့်ရှုနိုင်ပြီး၊
                 Download လည်း ပြုလုပ်နိုင်ပါပြီ။
                 <br />
                 အခုပဲ Download လုပ်ပြီး ကြည့်ရှုလိုက်ပါ။
@@ -52,10 +53,10 @@ export default function Component() {
               <div className="flex flex-col lg:justify-start sm:flex-row items-center gap-4 justify-center mt-4">
                 <a
                   href="https://mediafire.com/file/izreslsi3m9scbv/LuGyi.apk/file"
-                  className="w-full sm:w-auto bg-black rounded-md mt-5 mb-5 pl-2 pr-2"
+                  className="w-full sm:w-auto flex items-center justify-center"
                 >
                   <img
-                    className="h-10 sm:h-12 md:h-14 rounded-md sm:w-40 object-contain"
+                    className="h-12 w-36 sm:h-10 md:h-12 mt-2 mb-2 pl-2 pr-2 bg-black rounded-md sm:w-40 object-contain"
                     src="/mediafire.png"
                     alt="MediaFire Download"
                   />
@@ -65,7 +66,7 @@ export default function Component() {
                   className="w-full sm:w-auto"
                 >
                   <img
-                    className="h-12 sm:h-14 md:h-16 object-contain"
+                    className="h-12 w-full sm:h-14 md:h-14 object-contain"
                     src="/direct.png"
                     alt="Direct Download"
                   />
