@@ -3,9 +3,6 @@
  * @see https://v0.dev/t/p3kpW0HJoQV
  * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
  */
-
-import BubbleBackground from "./BubleBackground";
-import BubbleFlameEffect from "./BubleBackground";
 import BubbleFlame from "./BubleFrame";
 
 import ImageSlider from "./ImageSlider";
@@ -45,14 +42,14 @@ export default function Component() {
               </h2>
               <p className="text-base sm:text-lg md:text-2xl text-center md:text-left leading-relaxed">
                 <strong className="text-blue-600">LiGyiCar App</strong> မှာ
-                 ရုပ်ရှင်များကို လွယ်ကူစွာ တိုက်ရိုက်ကြည့်ရှုနိုင်ပြီး၊
-                Download လည်း ပြုလုပ်နိုင်ပါပြီ။
+                ရုပ်ရှင်များကို လွယ်ကူစွာ တိုက်ရိုက်ကြည့်ရှုနိုင်ပြီး၊ Download
+                လည်း ပြုလုပ်နိုင်ပါပြီ။
                 <br />
                 အခုပဲ Download လုပ်ပြီး ကြည့်ရှုလိုက်ပါ။
               </p>
               <div className="flex flex-col lg:justify-start sm:flex-row items-center gap-4 justify-center mt-4">
                 <a
-                  href="https://mediafire.com/file/izreslsi3m9scbv/LuGyi.apk/file"
+                  href="https://www.mediafire.com/file_premium/bj76n4yu5i841bs/LuGyi.apk/file"
                   className="w-full sm:w-auto flex items-center justify-center"
                 >
                   <img
