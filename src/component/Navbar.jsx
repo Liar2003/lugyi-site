@@ -87,7 +87,7 @@ const NavBar = () => {
                 onClick={() => scrollToSection("download")}
                 className="block mt-4 lg:inline-block lg:mt-0 hover:text-blue-500 cursor-pointer"
               >
-                Download
+                Download(v1.2)
               </a>
             </div>
             <a
