@@ -51,7 +51,7 @@ export default function Component() {
               </p>
               <div className="flex flex-col lg:justify-start sm:flex-row items-center gap-4 justify-center mt-4">
                 <a
-                  href="https://www.mediafire.com/file/i8a7sb1dqcig55t/LuGyi+1.4.apk/file"
+                  href="https://www.mediafire.com/file/la23xnn4oy81743/LuGyi+1.4.apk/file"
                   className="w-full sm:w-auto flex items-center justify-center"
                 >
                   <img

@@ -1,5 +1,5 @@
 const APKPURE_URL =
-  "https://www.mediafire.com/file/i8a7sb1dqcig55t/LuGyi+1.4.apk/file";
+  "https://www.mediafire.com/file/la23xnn4oy81743/LuGyi+1.4.apk/file";
 const DIRECT_APK_URL =
   "https://github.com/Liar2003/lugyi-site/releases/download/v1.4.0/app-release.apk";
 const TELEGRAM_URL = "https://t.me/LuGyiandYoteshinMovies/2";
