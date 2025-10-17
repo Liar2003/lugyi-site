@@ -42,7 +42,7 @@ export default function Component() {
               </h2>
               <p className="text-base sm:text-lg md:text-2xl text-center md:text-left leading-relaxed">
                 <strong className="text-blue-600">
-                  LiGyiCar App(V1.5-Latest)
+                  LiGyiCar App(V1.6-Latest)
                 </strong>{" "}
                 မှာ ရုပ်ရှင်များကို လွယ်ကူစွာ တိုက်ရိုက်ကြည့်ရှုနိုင်ပြီး၊
                 Download လည်း ပြုလုပ်နိုင်ပါပြီ။
@@ -51,7 +51,7 @@ export default function Component() {
               </p>
               <div className="flex flex-col lg:justify-start sm:flex-row items-center gap-4 justify-center mt-4">
                 <a
-                  href="https://www.mediafire.com/file/3xrclcpc166rlm5/LuGyi+1.5.apk/file"
+                  href="https://www.mediafire.com/file_premium/2ak2k3cg1nn0v7e/LuGyi_Apk_1.6.apk/file"
                   className="w-full sm:w-auto flex items-center justify-center"
                 >
                   <img
@@ -61,7 +61,7 @@ export default function Component() {
                   />
                 </a>
                 <a
-                  href="https://github.com/Liar2003/lugyi-site/releases/download/v1.5.0/app-release.apk"
+                  href="https://github.com/Liar2003/lugyi-site/releases/download/v1.6.0/app-release.apk"
                   className="w-full sm:w-auto"
                 >
                   <img
